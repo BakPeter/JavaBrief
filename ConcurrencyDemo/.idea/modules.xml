@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BlockingQueueExample/BlockingQueueExample.iml" filepath="$PROJECT_DIR$/../BlockingQueueExample/BlockingQueueExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Concurrency-in-Java-Deadlocks,-wait,-notify-and-notifyAll-methods-Source-code/Concurrency-in-Java-Deadlocks,-wait,-notify-and-notifyAll-methods-Source-code1.iml" filepath="$PROJECT_DIR$/../Concurrency-in-Java-Deadlocks,-wait,-notify-and-notifyAll-methods-Source-code/Concurrency-in-Java-Deadlocks,-wait,-notify-and-notifyAll-methods-Source-code1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Concurrency-in-Java-Interrupt-and-Join-Source-code/Concurrency-in-Java-Interrupt-and-Join-Source-code.iml" filepath="$PROJECT_DIR$/../Concurrency-in-Java-Interrupt-and-Join-Source-code/Concurrency-in-Java-Interrupt-and-Join-Source-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Concurrency-in-Java-Runnable-and-Thread-Source-code/Concurrency-in-Java-Runnable-and-Thread-Source-code.iml" filepath="$PROJECT_DIR$/../Concurrency-in-Java-Runnable-and-Thread-Source-code/Concurrency-in-Java-Runnable-and-Thread-Source-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Concurrency-in-Java-Synchronisation-Source-code/Concurrency-in-Java-Synchronisation-Source-code.iml" filepath="$PROJECT_DIR$/../Concurrency-in-Java-Synchronisation-Source-code/Concurrency-in-Java-Synchronisation-Source-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Concurrency-in-Java-Threads-Source-code/Concurrency-in-Java-Threads-Source-code.iml" filepath="$PROJECT_DIR$/../Concurrency-in-Java-Threads-Source-code/Concurrency-in-Java-Threads-Source-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConcurrencyDemo.iml" filepath="$PROJECT_DIR$/ConcurrencyDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpRequestAsyncDemo/HttpRequestAsyncDemo.iml" filepath="$PROJECT_DIR$/HttpRequestAsyncDemo/HttpRequestAsyncDemo.iml" />
+    </modules>
+  </component>
+</project>
