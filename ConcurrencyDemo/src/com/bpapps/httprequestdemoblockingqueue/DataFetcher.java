@@ -23,7 +23,7 @@ public class DataFetcher implements Runnable {
     @Override
     public void run() {
         Thread.currentThread().setName("DataFetcher");
-        String url = "http://httpbin.org/ip";
+        String url = "https://www.w3schools.com/whatis/whatis_htmldom.asp";
         try {
             URL urlObj = new URL(url);
             HttpURLConnection con = (HttpURLConnection) urlObj.openConnection();
